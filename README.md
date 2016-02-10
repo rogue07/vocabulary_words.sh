@@ -1,4 +1,7 @@
 # vocabulary_words.sh
+
+rogue7.scripts@gmail.com
+
 I created this bash script for my kindergartner to learn her vocabulary words.
 I use festival, a text to speech application to speak to the kid like a robot.
 The script asks them their name, and if they would like to play a game. Answering y or n (yes/no) will continue or stop the script.
