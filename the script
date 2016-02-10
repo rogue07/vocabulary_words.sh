@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # ram
+# rogue7.scripts@gmail.com
 
 # STUFF TO INSTALL BEFORE RUNNING:
 # dnf install festival sl -y
