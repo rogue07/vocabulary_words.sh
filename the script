@@ -1,14 +1,13 @@
 #!/bin/bash
 
 # ram
-# rogue7.scripts@gmail.com
 
 # STUFF TO INSTALL BEFORE RUNNING:
 # dnf install festival sl -y
 # create a file called wordlist with a word on each line, leave thhis file in the same directory as the script
 
 # 7 feb, 2016 - use the command line and text to speech to teach new words
-# 9 feb, 2016 - Zach.B helped me fix the read from file function
+# 9 feb, 2016 - Zach helped me fix the read from file function
 #             - 'words=$(cat aritext)' & 'for word in ${words}'
 #             - added null to aplay line to stop output
 
